@@ -80,7 +80,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1261-l496g-b01-schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32L496AGIx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32L496"/>
       <feature type="ODbg"      n="1"              name="On-board ST-LINK/V2"/>
       <feature type="ROM"       n="1"              name="64-Mbit Quad-SPI Flash memory"/>
       <feature type="MemCard"   n="1"              name="microSD card holder"/>
